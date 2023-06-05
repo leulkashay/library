@@ -1,8 +1,24 @@
+/* body style*/
 body {
     background-color: lightblue;
     background-image: url("pexels-pixabay-235985.jpg");
+    font-family: "Roboto", sans-serf;
 }
+/* heading style*/
 h1 {
     color: navy;
     margin-left: 20px;
+}
+
+/* Smooth scroll effect */
+html {
+  scroll-behavior: smooth;
+}
+ul li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: var(--primary-color);
 }
