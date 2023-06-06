@@ -14,7 +14,7 @@ a {
   color: var(--primary-color);
 }
 img{
-    width:1250px; height:450px; object-fit:cover;
+    border-radius: 8px;
 }
 a {
     display: block;
