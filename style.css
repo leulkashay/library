@@ -23,4 +23,9 @@ a {
     font-family: Helvetica;
     text-align: center;
     text-decoration: none;
- }
+}
+
+.button {
+    position: absolute;
+    top:50%
+}
