@@ -17,12 +17,9 @@ img{
     border-radius: 8px;
 }
 a {
-    display: block;
-    padding: 8px;
-    color: white;
-    font-family: Helvetica;
-    text-align: center;
-    text-decoration: none;
+  outline: none;
+  text-decoration: none;
+  padding: 2px 1px 0;
 }
 
 ul {
